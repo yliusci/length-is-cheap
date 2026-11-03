@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it."
+title: "Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval"
+authors:
+  - family-names: Liu
+    given-names: Yinuo
+    orcid: "https://orcid.org/0009-0006-1114-4781"
+repository-code: "https://github.com/yliusci/length-is-cheap"
+license: MIT
