@@ -6,8 +6,8 @@
 
 Measurement code and trial-level data for 126,473 attention trials on five open models.
 
-[![arXiv](https://img.shields.io/badge/arXiv-ARXIV__ID-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/ARXIV_ID)
-[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-length--is--cheap-ffcc4d?style=for-the-badge)](https://huggingface.co/datasets/yliusci/length-is-cheap)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.04169-b31b1b.svg)](https://arxiv.org/abs/2611.04169)
+[![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-length--is--cheap-yellow)](https://huggingface.co/datasets/yliusci/length-is-cheap)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1114--4781-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1114-4781)
 
 [![Python](https://img.shields.io/badge/python-3.12-3776ab?logo=python&logoColor=white)](https://www.python.org/)
