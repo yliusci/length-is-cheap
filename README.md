@@ -6,17 +6,16 @@
 
 Measurement code and trial-level data for 126,473 attention trials on five open models.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2611.04169-b31b1b.svg)](https://arxiv.org/abs/2611.04169)
-[![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-length--is--cheap-yellow)](https://huggingface.co/datasets/yliusci/length-is-cheap)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1114--4781-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1114-4781)
+<a href="https://arxiv.org/abs/2611.04169"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2611.04169-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+<a href="https://huggingface.co/papers/2611.04169"><img alt="HF Paper" src="https://img.shields.io/badge/HF%20Paper-2611.04169-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+<a href="https://huggingface.co/datasets/yliusci/length-is-cheap"><img alt="HF Dataset" src="https://img.shields.io/badge/Dataset-length--is--cheap-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+<a href="https://orcid.org/0009-0006-1114-4781"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0006--1114--4781-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 
-[![Python](https://img.shields.io/badge/python-3.12-3776ab?logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.15-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Transformers](https://img.shields.io/badge/Transformers-5.21-ffd21e?logo=huggingface&logoColor=black)](https://github.com/huggingface/transformers)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Trials](https://img.shields.io/badge/attention%20trials-126%2C473-blue)](#data)
-[![Models](https://img.shields.io/badge/open%20models-5-blue)](#models)
-[![GitHub](https://img.shields.io/badge/GitHub-length--is--cheap-181717?logo=github)](https://github.com/yliusci/length-is-cheap)
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776ab?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.15-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<a href="https://github.com/huggingface/transformers"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-5.21-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+<a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge"></a>
+<a href="#data"><img alt="126,473 trials" src="https://img.shields.io/badge/Trials-126%2C473-0366d6?style=for-the-badge"></a>
 
 [**Results**](#key-results) ·
 [**Quickstart**](#quickstart) ·
@@ -248,11 +247,14 @@ Trial-level data is on [Hugging Face](https://huggingface.co/datasets/yliusci/le
 ## Citation
 
 ```bibtex
-@article{liu2026context,
-  author  = {Liu, Yinuo},
-  title   = {Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval},
-  journal = {arXiv preprint arXiv:ARXIV_ID},
-  year    = {2026}
+@misc{liu2026length,
+  title         = {Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval},
+  author        = {Liu, Yinuo},
+  year          = {2026},
+  eprint        = {2611.04169},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2611.04169}
 }
 ```
 
